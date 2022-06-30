@@ -1,4 +1,4 @@
-# game_of_polish_pong
+# Game of Polish Pong
 Game of life with pong ball rolling in the deep while there is a polish notation function graph breaking the screen
 
 ## How to play:
