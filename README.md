@@ -3,9 +3,9 @@ Game of life with pong ball rolling in the deep while there is a polish notation
 
 ## How to play:
   compile it with **make** or **gcc funcs.c parse.c stack.c game_of_polish_pong.c -o ../build/gopp -lncurses**.  
-  run build/gopp file.  
+  run **build/gopp** file.  
   write the function like **sin(x)** or **tan(x)/10**.  
-  enjoy your slay!  
+  enjoy your **slay**!  
   
 ## Controls:
   \[A]\[Z] player 1 paddle  
