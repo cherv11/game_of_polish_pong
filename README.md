@@ -8,10 +8,10 @@ Game of life with pong ball rolling in the deep while there is a polish notation
   enjoy your slay!
   
 ## Controls:
-  \[A]\[Z] player 1 paddle
-  \[K]\[M] player 2 paddle
-  \[1] decrease speed of the entire game
-  \[2] increase the speed
-  \[0] set speed to default
-  \[Q] exit
+  \[A]\[Z] player 1 paddle 
+  \[K]\[M] player 2 paddle 
+  \[1] decrease speed of the entire game 
+  \[2] increase the speed 
+  \[0] set speed to default 
+  \[Q] exit 
   
