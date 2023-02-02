@@ -2,7 +2,7 @@
 Game of life with pong ball rolling in the deep while polish notation function graph is breaking the screen
 
 ## How to play:
-  compile it with **make** using **gcc**.
+  compile it with **make** using **gcc**.  
   run the **gopp** file via terminal.  
   write the function like **sin(x)** or **tan(x)/10**.  
   enjoy your **slay**!  
